@@ -5,8 +5,8 @@
 #include <ArduinoJson.h>
 #include <time.h>
 
-const char* ssid = "EdNet";
-const char* password = "Huawei@123";
+const char* ssid = "Main Hall";
+const char* password = "Meeting@2024";
 const uint32_t WIFI_TIMEOUT_MS = 30000;
 
 // ----------------- MQTT Configuration -----------------
